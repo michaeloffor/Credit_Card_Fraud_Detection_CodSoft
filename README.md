@@ -12,6 +12,6 @@
 <h3>Project Structure</h3>
 <li>Data Preprocessing: Handling imbalanced data, scaling features, and data transformation.</li>
 <li>Exploratory Data Analysis (EDA): Understanding the distribution of data and the relationships between features.</li>
-<li>Model Training: Training the model to detect fraud.</li>
+<li>Model Training: Training the logistic regression model to detect fraud.</li>
 <li>Model Evaluation: Evaluating the performance of the model using metrics like accuracy, precision, recall, F1-score.</li>
 <li>Prediction: Using the model to predict fraudulent transactions in new data</li>
